@@ -23,7 +23,7 @@
 - [Deck](https://speakerdeck.com/steipete/there-and-back-again) (link)
 
 ### Danijela Vrzan: Algorithms - Where No Developer Wants to Go
-- Deck
+- [Deck](https://github.com/DeepDishSwift/2023/blob/main/monday-algorithms/Algorithms_Danijela_Vrzan.pdf) (PDF)
 - [Repo](https://github.com/apple/swift-algorithms/tree/main/Sources/Algorithms)
 
 ### Ben Scheirman: Modular Architecture With Swift
@@ -54,7 +54,7 @@
 - [Repo](https://github.com/designatednerd/MoveItMoveIt/)
 
 ### Zach Brass: DeckUI: Coding Your Next Presentation… in Swift?
-- Deck
+- [Deck](https://github.com/DeepDishSwift/2023/blob/main/tuesday-deckui/Slides.pdf) (PDF)
 - [Repo](https://github.com/joshdholtz/DeckUI) 
 
 ### Vince Davis: Live Activities & Dynamic Island Made Simple
@@ -66,6 +66,6 @@
 - [Deck](https://github.com/DeepDishSwift/2023/blob/main/tuesday-document-with-docc/Documenting%20Your%20Project%20With%20DocC.pdf)
 
 ### Ben Proothi: Machine Learning in Swift: Practical, Trendy, or Both?
-- Deck
+- [Deck](https://github.com/DeepDishSwift/2023/blob/main/tuesday-machine-learning/Deep%20Dish%202023.pdf) (PDF)
 
 ### Paul Hudson: Closing Keynote
