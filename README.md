@@ -20,7 +20,7 @@
 ## Monday, May 1, 2023
 
 ### Peter Steinberger: Opening Keynote
--[Deck](https://speakerdeck.com/steipete/there-and-back-again) (link)
+- [Deck](https://speakerdeck.com/steipete/there-and-back-again) (link)
 
 ### Danijela Vrzan: Algorithms - Where No Developer Wants to Go
 - Deck
@@ -28,8 +28,8 @@
 
 ### Ben Scheirman: Modular Architecture With Swift
 - [Deck](https://github.com/DeepDishSwift/2023/blob/main/monday-modular-architecture/DeepDishSwift%20-%20Modular%20Project%20Architecture.key.zip) (Zipped Keynote)
-- [Demo app as CocoaPod](https://github.com/DeepDishSwift/2023/blob/main/monday-modular-architecture/PizzaApp-pods.tar.gz) (Tarball)
-- [Demo app as Swift Package](https://github.com/DeepDishSwift/2023/blob/main/monday-modular-architecture/PizzaApp-spm.tar.gz) (Tarball)
+- [PizzaApp CocoaPod](https://github.com/DeepDishSwift/2023/blob/main/monday-modular-architecture/PizzaApp-pods.tar.gz) (Tarball)
+- [PizzaApp Swift Package](https://github.com/DeepDishSwift/2023/blob/main/monday-modular-architecture/PizzaApp-spm.tar.gz) (Tarball)
 
 ### Via Fairchild: What is Mentorship and Why You’re Ready to be a Mentor
 - Deck
@@ -67,6 +67,5 @@
 
 ### Ben Proothi: Machine Learning in Swift: Practical, Trendy, or Both?
 - Deck
-- Repo
 
 ### Paul Hudson: Closing Keynote
