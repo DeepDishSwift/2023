@@ -39,8 +39,8 @@
 
 ### Vui Nguyen: Make Porting Custom SwiftUI Design Elements Easy with Swift Packages
 - [Deck](https://www.slideshare.net/vui_nguyen/make-porting-custom-swiftui-elements-easy-with-swift-packages) (link)
-- [App demo](https://bit.ly/SwiftUIDesignListDemo) (link)
-- [Repo](https://github.com/vuinguyen/swiftuidesignlist) (link)
+- [App demo](https://bit.ly/SwiftUIDesignListDemo)
+- [Repo](https://github.com/vuinguyen/swiftuidesignlist)
 
 ## Tuesday, May 2, 2023
 
