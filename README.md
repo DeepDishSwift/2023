@@ -45,7 +45,7 @@
 ## Tuesday, May 2, 2023
 
 ### Tunde Adegoroye: My NavStack Brings All the Boys to the Yard
-- Deck
+- [Deck](https://github.com/DeepDishSwift/2023/blob/main/tuesday-navigation/My%20NavStack%20Brings%20All%20The%20Boys%20To%20The%20Yard.pdf) (PDF)
 - [Repo](https://github.com/tunds/SwiftUI-Navigation-Multiplatform-Example)
 - [Free YouTube course](https://www.youtube.com/playlist?list=PLvUWi5tdh92wWS3F-AVsCJHkhBlrkBp6f)
 
