@@ -60,7 +60,7 @@
 ### Vince Davis: Live Activities & Dynamic Island Made Simple
 
 ### Mikaela Caron: 13 Tips to Write Code Like a Swiftie
-- Deck
+- [Deck](https://github.com/DeepDishSwift/2023/blob/main/tuesday-code-like-a-swiftie/13%20Tips%20to%20Write%20Code%20Like%20a%20Swiftie.pdf) (PDF)
 
 ### Simon B. Støvring: Documenting Your Project With DocC 
 - [Deck](https://github.com/DeepDishSwift/2023/blob/main/tuesday-document-with-docc/Documenting%20Your%20Project%20With%20DocC.pdf)
