@@ -32,7 +32,7 @@
 - [PizzaApp Swift Package](https://github.com/DeepDishSwift/2023/blob/main/monday-modular-architecture/PizzaApp-spm.tar.gz) (Tarball)
 
 ### Via Fairchild: What is Mentorship and Why You’re Ready to be a Mentor
-- [Deck]() (PDF)
+- [Deck](https://github.com/DeepDishSwift/2023/blob/main/monday-mentorship/Mentorship.pdf) (PDF)
 
 ### Marc Aupont: Unlocking the Power of Swift Playgrounds: Creating Engaging Learning Experiences 
 - Deck
