@@ -27,7 +27,7 @@
 - [Repo](https://github.com/apple/swift-algorithms/tree/main/Sources/Algorithms)
 
 ### Ben Scheirman: Modular Architecture With Swift
-- [Deck](https://github.com/DeepDishSwift/2023/blob/main/monday-modular-architecture/DeepDishSwift%20-%20Modular%20Project%20Architecture.key.zip) (Zipped Keynote)
+- [Deck](https://github.com/DeepDishSwift/2023/blob/main/monday-modular-architecture/Modular%20Project%20Architecture.pdf) (PDF)
 - [PizzaApp CocoaPod](https://github.com/DeepDishSwift/2023/blob/main/monday-modular-architecture/PizzaApp-pods.tar.gz) (Tarball)
 - [PizzaApp Swift Package](https://github.com/DeepDishSwift/2023/blob/main/monday-modular-architecture/PizzaApp-spm.tar.gz) (Tarball)
 
