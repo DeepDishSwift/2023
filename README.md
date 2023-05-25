@@ -33,6 +33,7 @@
 
 ### Via Fairchild: What is Mentorship and Why You’re Ready to be a Mentor
 - [Deck](https://github.com/DeepDishSwift/2023/blob/main/monday-mentorship/Mentorship.pdf) (PDF)
+- [YouTube Video Replay](https://youtu.be/jH09g4CJAFw)
 
 ### Marc Aupont: Unlocking the Power of Swift Playgrounds: Creating Engaging Learning Experiences 
 - Deck
